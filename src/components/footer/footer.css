@@ -1,0 +1,23 @@
+.footer{
+    background-color: #ece7e1;
+}
+.nav__footer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.link{
+    display: flex;
+    padding-left: 50px;
+    gap: 25px;
+}
+.links{
+    display: flex;
+    padding-right: 10px;
+    gap: 25px;
+}
+.footer-h4{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 300;
+}
