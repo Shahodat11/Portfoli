@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.contact{
+    background-color: #ece7e1;
+    font-family: Pacifico;
+}
+.contact-us{
+    padding-top: 50px;
+    display: flex;
+    padding-bottom: 80px;
+}
+h6{
+    margin-left: 50px;
+    font-weight: 500;
+    font-size: 120px;
+}
+.h5 {
+    margin-left: 50px;
+    padding-top: 30px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #000;
+}
+.h55 {
+    margin-left: 10px;
+    padding-top: 30px;
+    font-family: Poppins;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    color: #000;
+}
+.contact-img{
+    border-radius: 30px;
+    width: 600px;
+}
+.contactt{
+    width: 700px;
+}
