@@ -40,3 +40,24 @@ h6{
 .contactt{
     width: 700px;
 }
+@media (max-width: 540px) and (min-width: 330px) {
+    .h5{
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 20px;
+    }
+    .h55{
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 20px;
+    }
+}
+@media (max-width: 425px) and (min-width: 330px) {
+    h6{
+        font-size: 80px;
+    }
+    .h5{
+        font-size: 14px;
+        margin-left: 20px;
+    }
+}

@@ -21,3 +21,8 @@
     font-size: 16px;
     font-weight: 300;
 }
+@media (max-width: 755px) and (min-width: 330px) {
+    .nav__footer {
+        flex-wrap: wrap;
+    }
+}

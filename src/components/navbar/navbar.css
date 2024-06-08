@@ -33,3 +33,20 @@ h1{
     text-decoration: none;
     color: #1a1818;
 }
+@media (max-width: 515px) and (min-width: 330px) {
+    .navbar {
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 510px) and (min-width: 330px) {
+    a{
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 24px;
+    }
+}
+@media (max-width: 388px) and (min-width: 330px) {
+    ul{
+        gap: 25px;
+    }
+}
